@@ -1,1 +1,2 @@
-# Script_ex004
+# logica-programacao-js-exercicios04
+logica-programacao-js-exercicios04
